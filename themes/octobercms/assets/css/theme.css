@@ -1,0 +1,31 @@
+html, body {
+    overflow-x: hidden;
+    width: auto;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+.white {
+    color: white;
+}
+
+.btn-clear {
+    color: white;
+    border: 1px white solid;
+}
+
+.btn-black {
+    color: black;
+    border: 1px black solid;
+}
+
+.whiteBG {
+    background-color: white;
+}
